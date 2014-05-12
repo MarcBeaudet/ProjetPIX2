@@ -97,4 +97,4 @@ chaque fichier
 
 5.3. Diagramme de classes 
 
-![alt tag](https://github.com/MarcBeaudet/ProjetPIX2/Diagrammeclasse.png)
+![alt tag](https://raw.githubusercontent.com/MarcBeaudet/ProjetPIX2/master/Diagrammeclasse.png)
