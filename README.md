@@ -34,25 +34,17 @@ et ce dernier exerce une pression qui fait sortir une croquette.
 
  
 
-4. Description fonctionnelle 
+3. Description fonctionnelle 
 
-4.1. Cas d'utilisation 
+3.1. Cas d'utilisation 
 
 ![alt tag](https://raw.githubusercontent.com/MarcBeaudet/ProjetPIX2/master/Diagrammeuml.png)
 
  
 
-4.2. Diagramme etats-transitions 
+3.2. Diagramme etats-transitions 
 
-A faire : 
 
-Installer Visio depuis Dreamspark. 
-
-Installer le modèle UML 2.2 dans Visio : http://softwarestencils.com/uml/index.html 
-
- 
-
-Mettre l'image du diagramme états-transitions fabriquer à l'aide de Visio avec le modèle UML 2.2. 
 
  
 
@@ -81,15 +73,13 @@ https://www.ghielectronics.com/catalog/product/360 (je n'ai pas trouve de piece 
 
 5.1. Description de la demonstration 
 
-Mettre ici le menu de votre application console et indiquer comment refaire la demo. 
+
 
  
 
 5.2. Liste des fichiers 
 
-Mettre ici le tree folder/file (revoir commande dos tree) de votre projet avec une courte description pour 
 
-chaque fichier 
 
  
 
