@@ -38,7 +38,7 @@ et ce dernier exerce une pression qui fait sortir une croquette.
 
 4.1. Cas d'utilisation 
 
-https://raw.githubusercontent.com/MarcBeaudet/ProjetPIX2/master/Diagrammeuml.png
+![alt tag](https://raw.githubusercontent.com/MarcBeaudet/ProjetPIX2/master/Diagrammeuml.png)
 
  
 
