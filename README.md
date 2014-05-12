@@ -97,4 +97,4 @@ chaque fichier
 
 5.3. Diagramme de classes 
 
-Mettre ici le diagramme de classes fabriquer à l'aide de Visual Studio.
+![alt tag](https://raw.github.com/MarcBeaudet/ProjetPIX2/tree/master/Diagrammeclasse.png)
