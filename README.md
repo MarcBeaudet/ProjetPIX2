@@ -38,7 +38,7 @@ et ce dernier exerce une pression qui fait sortir une croquette.
 
 4.1. Cas d'utilisation 
 
-Mettre l'image des cas d'utilisation fabriquer a l'aide de Visual Studio 
+https://raw.githubusercontent.com/MarcBeaudet/ProjetPIX2/master/Diagrammeuml.png
 
  
 
@@ -60,9 +60,7 @@ Mettre l'image du diagramme états-transitions fabriquer à l'aide de Visio avec l
 
 4.1. Schema Gadgeteer et electronique de l'objet 
 
-Insérer l'image obtenu à travers le designer Gadgeteer 
-
-(et si nécessaire le début du schema électronique des modules que vous devrez fabriquer) 
+![alt tag](https://raw.githubusercontent.com/MarcBeaudet/ProjetPIX2/master/Schemagadgeteer.png)
 
  
 
