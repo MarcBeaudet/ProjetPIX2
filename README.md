@@ -44,7 +44,7 @@ et ce dernier exerce une pression qui fait sortir une croquette.
 
 3.2. Diagramme etats-transitions 
 
-
+![alt tag](https://raw.githubusercontent.com/MarcBeaudet/ProjetPIX2/master/Diagrammeetats.png)
 
  
 
